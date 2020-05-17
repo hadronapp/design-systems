@@ -1,0 +1,66 @@
+{
+  "category": "colors",
+  "type": "class",
+  "values": [
+    {
+      "value": "has-text-white"
+    },
+    {
+      "value": "has-text-black"
+    },
+    {
+      "value": "has-text-light"
+    },
+    {
+      "value": "has-text-dark"
+    },
+    {
+      "value": "has-text-primary"
+    },
+    {
+      "value": "has-text-info"
+    },
+    {
+      "value": "has-text-link"
+    },
+    {
+      "value": "has-text-success"
+    },
+    {
+      "value": "has-text-warning"
+    },
+    {
+      "value": "has-text-danger"
+    },
+    {
+      "value": "has-text-black-bis"
+    },
+    {
+      "value": "has-text-black-ter"
+    },
+    {
+      "value": "has-text-grey-darker"
+    },
+    {
+      "value": "has-text-grey-dark"
+    },
+    {
+      "value": "has-text-grey"
+    },
+    {
+      "value": "has-text-grey-light"
+    },
+    {
+      "value": "has-text-grey-lighter"
+    },
+    {
+      "value": "has-text-white-ter"
+    },
+    {
+      "value": "has-text-white-bis"
+    },
+    {
+      "value": "is-bold"
+    }
+  ]
+}

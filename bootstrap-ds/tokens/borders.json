@@ -1,0 +1,90 @@
+{
+  "category": "borders",
+  "type": "class",
+  "values": [
+    {
+      "value": "border"
+    },
+    {
+      "value": "border-top"
+    },
+    {
+      "value": "border-bottom"
+    },
+    {
+      "value": "border-right"
+    },
+    {
+      "value": "border-left"
+    },
+    {
+      "value": "border-top-0"
+    },
+    {
+      "value": "border-bottom-0"
+    },
+    {
+      "value": "border-right-0"
+    },
+    {
+      "value": "border-left-0"
+    },
+    {
+      "value": "border-primary"
+    },
+    {
+      "value": "border-secondary"
+    },
+    {
+      "value": "border-success"
+    },
+    {
+      "value": "border-danger"
+    },
+    {
+      "value": "border-warning"
+    },
+    {
+      "value": "border-info"
+    },
+    {
+      "value": "border-light"
+    },
+    {
+      "value": "border-dark"
+    },
+    {
+      "value": "border-white"
+    },
+    {
+      "value": "rounded"
+    },
+    {
+      "value": "rounded-top"
+    },
+    {
+      "value": "rounded-right"
+    },
+    {
+      "value": "rounded-bottom"
+    },
+    {
+      "value": "rounded-left"
+    },
+    {
+      "value": "rounded-circle"
+    },
+    {
+      "value": "rounded-pill"
+    },
+    {
+      "value": "rounded-0"
+    },
+    {
+      "value": "rounded-sm"
+    },
+    {
+      "value": "rounded-lg"
+    }
+  ]
+}

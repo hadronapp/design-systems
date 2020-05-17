@@ -1,0 +1,26 @@
+{
+  "type": "class",
+  "category": "font-family",
+  "values": [
+    {
+      "value": "is-family-sans-serif",
+      "description": "Sets font family to $family-sans-serif"
+    },
+    {
+      "value": "is-family-monospace",
+      "description": "Sets font family to $family-monospace"
+    },
+    {
+      "value": "is-family-primary",
+      "description": "Sets font family to $family-primary"
+    },
+    {
+      "value": "is-family-secondary",
+      "description": "Sets font family to $family-secondary"
+    },
+    {
+      "value": "is-family-code",
+      "description": "Sets font family to $family-code"
+    }
+  ]
+}

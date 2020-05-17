@@ -1,0 +1,14 @@
+{
+  "type": "class",
+  "category": "spacing",
+  "values": [
+    {
+      "value": "is-paddingless",
+      "description":"Removes any padding"
+    },
+    {
+      "value": "is-marginless",
+      "description":"Removes any margin"
+    }
+  ]
+}

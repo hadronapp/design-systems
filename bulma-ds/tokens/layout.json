@@ -1,0 +1,101 @@
+[
+  {
+    "category": "layout",
+    "type": "class",
+    "values": [
+      {
+        "value": "is-flex-mobile"
+      },
+      {
+        "value": "is-flex-tablet-only"
+      },
+      {
+        "value": "is-flex-desktop-only"
+      },
+      {
+        "value": "is-flex-widescreen-only"
+      },
+      {
+        "value": "is-flex-touch"
+      },
+      {
+        "value": "is-flex-tablet"
+      },
+      {
+        "value": "is-flex-desktop"
+      },
+      {
+        "value": "is-flex-widescreen"
+      },
+      {
+        "value": "is-flex-fullhd"
+      },
+      {
+        "value": "is-hidden-mobile"
+      },
+      {
+        "value": "is-hidden-tablet-only"
+      },
+      {
+        "value": "is-hidden-desktop-only"
+      },
+      {
+        "value": "is-hidden-widescreen-only"
+      },
+      {
+        "value": "is-hidden-touch"
+      },
+      {
+        "value": "is-hidden-tablet"
+      },
+      {
+        "value": "is-hidden-desktop"
+      },
+      {
+        "value": "is-hidden-widescreen"
+      },
+      {
+        "value": "is-hidden-fullhd"
+      },
+      {
+        "value": "is-invisible",
+        "description":"Adds visibility hidden"
+      },
+      {
+        "value": "is-hidden",
+        "description":"Hides element"
+      },
+      {
+        "value": "is-sr-only",
+        "description":"Hide elements visually but keep the element available to be announced by a screen reader"
+      },
+      {
+        "value": "is-block"
+      },
+      {
+        "value": "is-flex"
+      },
+      {
+        "value": "is-inline"
+      },
+      {
+        "value": "is-inline-block"
+      },
+      {
+        "value": "is-inline-flex"
+      },
+      {
+        "value": "is-pulled-left",
+        "description": "Moves an element to the left"
+      },
+      {
+        "value": "is-pulled-right",
+        "description": "Moves an element to the right"
+      },
+      {
+        "value": "is-relative",
+        "description":"Applies 'position': relative to the element."
+      }
+    ]
+  }
+]

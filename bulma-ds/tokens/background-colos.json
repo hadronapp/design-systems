@@ -1,0 +1,63 @@
+{
+  "category": "background-colors",
+  "type": "class",
+  "values": [
+    {
+      "value": "has-background-white"
+    },
+    {
+      "value": "has-background-black"
+    },
+    {
+      "value": "has-background-light"
+    },
+    {
+      "value": "has-background-dark"
+    },
+    {
+      "value": "has-background-primary"
+    },
+    {
+      "value": "has-background-info"
+    },
+    {
+      "value": "has-background-link"
+    },
+    {
+      "value": "has-background-success"
+    },
+    {
+      "value": "has-background-warning"
+    },
+    {
+      "value": "has-background-danger"
+    },
+    {
+      "value": "has-background-black-bis"
+    },
+    {
+      "value": "has-background-black-ter"
+    },
+    {
+      "value": "has-background-grey-darker"
+    },
+    {
+      "value": "has-background-grey-dark"
+    },
+    {
+      "value": "has-background-grey"
+    },
+    {
+      "value": "has-background-grey-light"
+    },
+    {
+      "value": "has-background-grey-lighter"
+    },
+    {
+      "value": "has-background-white-ter"
+    },
+    {
+      "value": "has-background-white-bis"
+    }
+  ]
+}

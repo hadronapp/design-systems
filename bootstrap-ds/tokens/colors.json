@@ -1,0 +1,45 @@
+{
+  "category": "colors",
+  "type": "class",
+  "values": [
+    {
+      "value": "text-primary"
+    },
+    {
+      "value": "text-secondary"
+    },
+    {
+      "value": "text-success"
+    },
+    {
+      "value": "text-danger"
+    },
+    {
+      "value": "text-warning"
+    },
+    {
+      "value": "text-info"
+    },
+    {
+      "value": "text-light"
+    },
+    {
+      "value": "text-dark"
+    },
+    {
+      "value": "text-body"
+    },
+    {
+      "value": "text-muted"
+    },
+    {
+      "value": "text-white"
+    },
+    {
+      "value": "text-black-50"
+    },
+    {
+      "value": "text-white-50"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "class",
+  "category": "text-transformation",
+  "values": [
+    {
+      "value": "is-capitalized",
+      "description": "Transforms the first character of each word to uppercase"
+    },
+    {
+      "value": "is-lowercase",
+      "description": "Transforms all characters to lowercase"
+    },
+    {
+      "value": "is-uppercase",
+      "description": "Transforms all characters to uppercase"
+    },
+    {
+      "value": "is-italic",
+      "description": "Transforms all characters to italic"
+    }
+  ]
+}

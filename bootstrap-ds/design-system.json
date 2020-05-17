@@ -1,0 +1,17 @@
+{
+  "name": "@hadronapp/bootstrap-ds",
+  "displayName": "Bootstrap 4",
+  "homepage": "https://getbootstrap.com",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "dependencies": [
+    "node_modules/bootstrap/dist/css/bootstrap.css",
+    "node_modules/jquery/dist/jquery.min.js",
+    "node_modules/bootstrap/dist/js/bootstrap.js"
+  ],
+  "components": [
+    "./components/*.ds.js"
+  ],
+  "tokens": [
+    "./tokens/*.json"
+  ]
+}

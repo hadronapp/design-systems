@@ -1,0 +1,7 @@
+{
+  "name": "@hadronapp/font-awesome-ds",
+  "version": "5.0.0",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.0.0"
+  }
+}

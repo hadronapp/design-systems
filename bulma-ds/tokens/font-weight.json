@@ -1,0 +1,26 @@
+{
+  "type": "class",
+  "category": "font-weight",
+  "values": [
+    {
+      "value": "has-text-weight-light",
+      "description": "Transforms text weight to light"
+    },
+    {
+      "value": "has-text-weight-normal",
+      "description": "Transforms text weight to normal"
+    },
+    {
+      "value": "has-text-weight-medium",
+      "description": "Transforms text weight to medium"
+    },
+    {
+      "value": "has-text-weight-semibold",
+      "description": "Transforms text weight to semi-bold"
+    },
+    {
+      "value": "has-text-weight-bold",
+      "description": "Transforms text weight to bold"
+    }
+  ]
+}

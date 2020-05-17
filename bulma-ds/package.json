@@ -1,0 +1,7 @@
+{
+  "name": "@hadronapp/bulma-ds",
+  "version": "0.8.0",
+  "dependencies": {
+    "bulma": "^0.8.2"
+  }
+}

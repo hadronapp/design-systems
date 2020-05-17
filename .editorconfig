@@ -1,0 +1,13 @@
+root = true
+
+[*]
+charset = utf-8
+indent_size = 2
+indent_style = space
+max_line_length = 80
+trim_trailing_whitespace = true
+insert_final_newline = false
+quote_type = single
+
+[*.md]
+trim_trailing_whitespace = false

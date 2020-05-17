@@ -1,0 +1,22 @@
+{
+  "type": "class",
+  "category": "alignment",
+  "values": [
+    {
+      "value": "has-text-centered",
+      "description": "Makes the text centered"
+    },
+    {
+      "value": "has-text-justified",
+      "description": "Makes the text justified"
+    },
+    {
+      "value": "has-text-left",
+      "description": "Makes the text aligned to the left"
+    },
+    {
+      "value": "has-text-right",
+      "description": "Makes the text aligned to the right"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "category": "alignment",
+  "type": "class",
+  "values": [
+    {
+      "value": "align-baseline"
+    },
+    {
+      "value": "align-top"
+    },
+    {
+      "value": "align-middle"
+    },
+    {
+      "value": "align-bottom"
+    },
+    {
+      "value": "align-text-top"
+    },
+    {
+      "value": "align-text-bottom"
+    }
+  ]
+}

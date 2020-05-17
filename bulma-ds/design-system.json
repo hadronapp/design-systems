@@ -1,0 +1,15 @@
+{
+  "name": "@hadronapp/bulma-ds",
+  "displayName": "Bulma",
+  "homepage": "https://bulma.io",
+  "description": "Bulma is a free, open source CSS framework based on Flexbox.",
+  "dependencies": [
+    "node_modules/bulma/css/bulma.min.css"
+  ],
+  "components": [
+    "./components/*.ds.js"
+  ],
+  "tokens": [
+    "./tokens/*.json"
+  ]
+}

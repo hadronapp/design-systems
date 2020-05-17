@@ -1,0 +1,18 @@
+{
+  "category": "shadows",
+  "type": "class",
+  "values": [
+    {
+      "value": "shadow-none"
+    },
+    {
+      "value": "shadow-sm"
+    },
+    {
+      "value": "shadow"
+    },
+    {
+      "value": "shadow-lg"
+    }
+  ]
+}

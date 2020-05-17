@@ -1,0 +1,42 @@
+{
+  "category": "size",
+  "type": "class",
+  "values": [
+    {
+      "value": "is-small"
+    },
+    {
+      "value": "is-medium"
+    },
+    {
+      "value": "is-large"
+    },
+    {
+      "value": "is-fullwidth"
+    },
+    {
+      "value": "is-fullheight"
+    },
+    {
+      "value": "is-size-1"
+    },
+    {
+      "value": "is-size-2"
+    },
+    {
+      "value": "is-size-3"
+    },
+    {
+      "value": "is-size-4"
+    },
+    {
+      "value": "is-size-5"
+    },
+    {
+      "value": "is-size-6"
+    },
+    {
+      "value": "is-size-7"
+    }
+  ]
+}

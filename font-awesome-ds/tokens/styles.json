@@ -1,0 +1,107 @@
+{
+  "category": "icon-styles",
+  "type": "class",
+  "values": [
+    {
+      "value": "has-text-white"
+    },
+    {
+      "value": "fa-xs",
+      "description": "Icon size: xs"
+    },
+    {
+      "value": "fa-sm",
+      "description": "Icon size: sm"
+    },
+    {
+      "value": "fa-lg",
+      "description": "Icon size: lg"
+    },
+    {
+      "value": "fa-2x",
+      "description": "Icon size: 2x"
+    },
+    {
+      "value": "fa-3x",
+      "description": "Icon size: 3x"
+    },
+    {
+      "value": "fa-4x",
+      "description": "Icon size: 4x"
+    },
+    {
+      "value": "fa-5x",
+      "description": "Icon size: 5x"
+    },
+    {
+      "value": "fa-6x",
+      "description": "Icon size: 6x"
+    },
+    {
+      "value": "fa-7x",
+      "description": "Icon size: 7x"
+    },
+    {
+      "value": "fa-8x",
+      "description": "Icon size: 8x"
+    },
+    {
+      "value": "fa-9x",
+      "description": "Icon size: 9x"
+    },
+    {
+      "value": "fa-10x",
+      "description": "Icon size: 10x"
+    },
+    {
+      "value": "fa-fw",
+      "description": "For vertically aligning a series of icons, like in a list or navigation menu."
+    },
+    {
+      "value": "fa-ul",
+      "description": "Replace default bullets in unordered lists. Must be used with fa-li."
+    },
+    {
+      "value": "fa-li",
+      "description": "Replace default bullets in unordered lists. Must be used with fa-ul"
+    },
+    {
+      "value": "fa-rotate-90",
+      "description": "Rotate icon 90°"
+    },
+    {
+      "value": "fa-rotate-180",
+      "description": "Rotate icon 180°"
+    },
+    {
+      "value": "fa-rotate-270",
+      "description": "Rotate icon 270°"
+    },
+    {
+      "value": "fa-flip-horizontal",
+      "description": "Mirrors icon horizontally"
+    },
+    {
+      "value": "fa-flip-vertical",
+      "description": "Mirrors icon vertically"
+    },
+    {
+      "value": "fa-spin",
+      "description": "Rotate"
+    },
+    {
+      "value": "fa-pulse",
+      "description": "Rotate with 8 steps. Works especially well with fa-spinner & everything in the spinner icons category."
+    },
+    {
+      "value": "fa-border",
+      "description": "Border style."
+    },
+    {
+      "value": "fa-pull-right"
+    },
+    {
+      "value": "fa-pull-left"
+    }
+  ]
+}

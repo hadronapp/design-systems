@@ -1,0 +1,13 @@
+{
+  "category": "visibility",
+  "type": "class",
+  "values": [
+    {
+      "value": "visible"
+    },
+    {
+      "value": "invisible"
+    }
+  ]
+}
+

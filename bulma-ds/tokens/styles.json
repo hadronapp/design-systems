@@ -1,0 +1,24 @@
+{
+  "category": "styles",
+  "type": "class",
+  "values": [
+    {
+      "value": "is-outlined"
+    },
+    {
+      "value": "is-inverted"
+    },
+    {
+      "value": "is-clipped",
+      "description":"Adds overflow hidden"
+    },
+    {
+      "value": "is-radiusless",
+      "description":"Removes any radius"
+    },
+    {
+      "value": "is-shadowless",
+      "description":"Removes any shadow"
+    }
+  ]
+}

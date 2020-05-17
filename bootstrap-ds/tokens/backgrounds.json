@@ -1,0 +1,60 @@
+{
+  "category": "backgrounds",
+  "type": "class",
+  "values": [
+    {
+      "value": "bg-primary"
+    },
+    {
+      "value": "bg-secondary"
+    },
+    {
+      "value": "bg-success"
+    },
+    {
+      "value": "bg-danger"
+    },
+    {
+      "value": "bg-warning"
+    },
+    {
+      "value": "bg-info"
+    },
+    {
+      "value": "bg-light"
+    },
+    {
+      "value": "bg-dark"
+    },
+    {
+      "value": "bg-white"
+    },
+    {
+      "value": "bg-transparent"
+    },
+    {
+      "value": "bg-gradient-primary"
+    },
+    {
+      "value": "bg-gradient-secondary"
+    },
+    {
+      "value": "bg-gradient-success"
+    },
+    {
+      "value": "bg-gradient-danger"
+    },
+    {
+      "value": "bg-gradient-warning"
+    },
+    {
+      "value": "bg-gradient-info"
+    },
+    {
+      "value": "bg-gradient-light"
+    },
+    {
+      "value": "bg-gradient-dark"
+    }
+  ]
+}

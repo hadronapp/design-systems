@@ -1,0 +1,78 @@
+{
+  "category": "texts",
+  "type": "class",
+  "values": [
+    {
+      "value": "text-justify"
+    },
+    {
+      "value": "text-left"
+    },
+    {
+      "value": "text-center"
+    },
+    {
+      "value": "text-wrap"
+    },
+    {
+      "value": "text-nowrap"
+    },
+    {
+      "value": "text-truncate"
+    },
+    {
+      "value": "text-break"
+    },
+    {
+      "value": "text-right"
+    },
+    {
+      "value": "text-sm-left"
+    },
+    {
+      "value": "text-md-left"
+    },
+    {
+      "value": "text-lg-left"
+    },
+    {
+      "value": "text-xl-left"
+    },
+    {
+      "value": "text-lowercase"
+    },
+    {
+      "value": "text-uppercase"
+    },
+    {
+      "value": "text-capitalize"
+    },
+    {
+      "value": "font-weight-bold"
+    },
+    {
+      "value": "font-weight-bolder"
+    },
+    {
+      "value": "font-weight-normal"
+    },
+    {
+      "value": "font-weight-light"
+    },
+    {
+      "value": "font-weight-lighter"
+    },
+    {
+      "value": "font-italic"
+    },
+    {
+      "value": "text-monospace"
+    },
+    {
+      "value": "text-muted"
+    },
+    {
+      "value": "text-decoration-none"
+    }
+  ]
+}

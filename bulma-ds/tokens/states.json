@@ -1,0 +1,58 @@
+[
+  {
+    "category": "states",
+    "type": "class",
+    "values": [
+      {
+        "value": "is-primary"
+      },
+      {
+        "value": "is-link"
+      },
+      {
+        "value": "is-info"
+      },
+      {
+        "value": "is-success"
+      },
+      {
+        "value": "is-warning"
+      },
+      {
+        "value": "is-active"
+      },
+      {
+        "value": "is-danger"
+      },
+      {
+        "value": "is-loading"
+      },
+      {
+        "value": "is-light"
+      },
+      {
+        "value": "is-dark"
+      },
+      {
+        "value": "is-white"
+      },
+      {
+        "value": "is-black"
+      },
+      {
+        "value": "is-unselectable",
+        "description":"Prevents the text from being selectable"
+      }
+    ]
+  },
+  {
+    "category": "states",
+    "type": "attribute",
+    "values": [
+      {
+        "value": "disabled",
+        "type": "boolean"
+      }
+    ]
+  }
+]

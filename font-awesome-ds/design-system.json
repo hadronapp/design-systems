@@ -1,0 +1,15 @@
+{
+  "name": "@hadronapp/font-awesome-ds",
+  "displayName": "Font Awesome 5",
+  "homepage": "https://fontawesome.com",
+  "description": "The iconic font and CSS framework",
+  "dependencies": [
+    "node_modules/@fortawesome/fontawesome-free/css/all.min.css"
+  ],
+  "components": [
+    "./components/*.ds.js"
+  ],
+  "tokens": [
+    "./tokens/*.json"
+  ]
+}

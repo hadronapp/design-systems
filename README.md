@@ -19,13 +19,14 @@
 <br />
 
 ## Table of Contents
-- [Introduction](#explanation)
+- [Introduction](#introduction)
 - [Contributing](#contributing)
 - [Creating a design system](#creating-a-design-system)
   - [How it works](#how-it-works)
   - [The <i>design-system.json</i> file](#design-system-json)
   - [How to define components](#how-to-define-components)
   - [How to define tokens](#how-to-define-tokens)
+ - [How to use them at Hadron](#how-to-use-them-at-hadron)
  - [Specs](#specs)
  - [Contact](#contact)
 
@@ -56,7 +57,7 @@ This repo contains all the information needed to create design systems to be use
 It also contains all design systems listed there for public usage.
 
 
-<p align="center">
+<p id="ds-dialog" align="center">
 	<img src="https://s3.amazonaws.com/hadron.app/design-system-dialog.png?" alt="Hadron">
 	<p align="center">
 		<small><sup>Design systems dialog at hadron.app<br>All <abbr>DS</abbr> from this repo will be displayed there</sup></small>
@@ -200,6 +201,13 @@ They are defined in JSON files and, like with components, you should refer to th
 ```
 <p align="center"><sup>Example extracted from the Font-awesome design system:</sup></p>
 <p align="left"><strong>⚠️ Hadron doesn't use tokens at this moment</strong></figcaption>
+
+## How to use them at Hadron
+
+Design systems must be NPM packages. You must add that dependency to your project.<br>At the moment, there are 2 ways to do that:
+
+* Automatically, by pressing install on the <a href="#ds-dialog">public design system list</a>
+* Manually, by creating a package.json file and add it to "dependencies" on your project (there is no UI-form to do that more nicely at this moment)
 
 ## Specs
 

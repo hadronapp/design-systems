@@ -14,11 +14,13 @@ export const variants = [
       width: 89,
       height: 16,
     },
-    html: `
-    <label class="checkbox">
-      <input type="checkbox">
-      Remember me
-    </label>
-    `,
+    snippet: {
+      html: `
+      <label class="checkbox">
+        <input type="checkbox">
+        Remember me
+      </label>
+      `
+    }
   },
 ];

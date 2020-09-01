@@ -1,0 +1,7 @@
+{
+  "name": "@hadronapp/bootstrap-icons-ds",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap-icons": "^1.0.0"
+  }
+}

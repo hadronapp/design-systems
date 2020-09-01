@@ -1,0 +1,9 @@
+{
+  "name": "@hadronapp/bootstrap-icons-ds",
+  "displayName": "Bootstrap Icons",
+  "homepage": "https://icons.getbootstrap.com",
+  "description": "Bootstrap icon library",
+  "components": [
+    "./components/*.ds.js"
+  ]
+}
